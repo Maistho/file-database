@@ -1,0 +1,8 @@
+src/
+dist/*.js.map
+dist/*.spec.js
+dist/*.spec.d.ts
+*/__mocks__/
+.gitignore
+.prettierrc
+tsconfig.json
